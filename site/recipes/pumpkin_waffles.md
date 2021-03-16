@@ -1,6 +1,5 @@
 # Pumpkin Waffles 🧇
-![Pumpkin waffles](../static/pumpkin-waffles-on-ir
-on.jpg)
+![Pumpkin waffles](../static/pumpkin-waffles-on-iron.jpg)
 
 ## Ingredients
   - 2 1/2 cups all-purpose flour
