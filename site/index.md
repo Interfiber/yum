@@ -11,4 +11,4 @@ A Open-Source collection of recipes
 ## Adding a recipe
 Visit the [README](https://github.com/Interfiber/yum#readme) for more info
 
-#### Made with love with [Ash](https://gitlab.com/Interfiber)
+###### Made with love with [Ash](https://github.com/Interfiber)

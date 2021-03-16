@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "node compiler.js"
+  },
   "dependencies": {
     "copy-dir": "^1.3.0",
     "marked": "^2.0.1"
