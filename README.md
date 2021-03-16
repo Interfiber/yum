@@ -14,3 +14,7 @@ To view the site first compile all of the markdown by running
 node compiler.js
 ```
 make sure you have ran ```npm install``` first. This will create a new public folder which you can use a webserver to host.
+
+## Credits
+
+The css library used is skeleton css, marked is the markdown parser used, vercel is for deployment, copy-dir is used for copying a folder, all credit for the recipes go's to the authors of them.
