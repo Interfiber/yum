@@ -17,4 +17,4 @@ make sure you have ran ```npm install``` first. This will create a new public fo
 
 ## Credits
 
-The css library used is skeleton css, marked is the markdown parser used, vercel is for deployment, all credit for the recipes go's to the authors of them.
+The css library used is skeleton css, marked is the markdown parser used, vercel is for deployment, copy-dir is used for copying a folder, all credit for the recipes go's to the authors of them.
