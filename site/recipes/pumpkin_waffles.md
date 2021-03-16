@@ -1,5 +1,6 @@
 # Pumpkin Waffles 🧇
-![Pumpkin waffles](https://i0.wp.com/smittenkitchen.com/wp-content/uploads//2007/11/pumpkin-waffles.jpg?fit=750%2C500&ssl=1)
+![Pumpkin waffles](../static/pumpkin-waffles-on-ir
+on.jpg)
 
 ## Ingredients
   - 2 1/2 cups all-purpose flour
