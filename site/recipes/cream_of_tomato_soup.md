@@ -15,7 +15,21 @@
    - Salt and cayenne pepper
 
 ## Make It!
-Heat a heavy 12-inch skillet over low to medium-low heat. Meanwhile, sprinkle a portion of cheese over two bread slices. Top each with a remaining bread slice, pressing down gently to set. Brush sandwich tops completely with half of melted butter; place each sandwich, buttered-size down, in skillet. Brush remaining side of each sandwich completely with remaining butter. Cook until crisp and deep golden brown, 5 to 10 minutes per side, flipping sandwiches back to first side to reheat and crisp, about 15 seconds. Serve immediately.
+Heat a heavy 12-inch skillet over low to medium-low heat. Meanwhile, 
+
+sprinkle a portion of cheese over two bread slices. Top each with a 
+
+remaining bread slice, pressing down gently to set. Brush sandwich tops 
+
+completely with half of melted butter; place each sandwich, 
+
+buttered-size down, in skillet. Brush remaining side of each sandwich 
+
+completely with remaining butter. Cook until crisp and deep golden 
+
+brown, 5 to 10 minutes per side, flipping sandwiches back to first side 
+
+to reheat and crisp, about 15 seconds. Serve immediately.
 
 ## Credits
 Images and text from [here](https://smittenkitchen.com/2006/11/cream-of-tomato-soup-classic-grilled-cheese/)

@@ -21,18 +21,23 @@ Preheat oven to 250°F and preheat waffle iron. Sift together flour,
 
 brown sugar, baking powder and soda, salt, and spices. Whisk egg yolks 
 
-in a large bowl with buttermilk, pumpkin, and butter until smooth. Whisk in dry ingredients just until combined.
+in a large bowl with buttermilk, pumpkin, and butter until smooth. Whisk 
+
+in dry ingredients just until combined.
 
 In a mixing bowl with a whisk attachment, whisk the egg whites until 
 
 they hold soft peaks (as in, far softer than the over-beaten whites 
 
 you’ll see in my picture above). Folk them gently into the waffle 
+
 batter, until just combined.
 
 Brush waffle iron lightly with oil and spoon batter (about 2 cups for 
 
-four 4-inch Belgian waffles) into waffle iron, spreading quickly. Cook according to manufacturer’s instructions.
+four 4-inch Belgian waffles) into waffle iron, spreading quickly. Cook 
+
+according to manufacturer’s instructions.
 
 Transfer waffles to rack in oven to keep warm and crisp. Make more 
 
