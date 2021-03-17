@@ -1,6 +1,5 @@
 # Yum
 A collection of recipes for people who don't like bloat
-Note: Links might not work as the project is under development
 
 ## Does it use javascript?
 Only to compile the markdown pages, this is ran when the website is deployed.
