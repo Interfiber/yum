@@ -9,6 +9,7 @@ A Open-Source collection of recipes
 <p><a href="/recipes/pumpkin_waffles.html">Pumpkin Waffles</a></p>
 <p><a href="/recipes/almond_biscotti.html">Almond Biscotti</a></p>
 <p><a href="/recipes/pumpkin_muffins.html">Pumpkin Muffins</a></p>
+<p><a href="/recipes/drop_cornbread_biscuts.html">Drop Cornbread Biscuits</a></p>
 </details>
 
 ## Adding a recipe
