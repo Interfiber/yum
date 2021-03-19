@@ -1,4 +1,4 @@
-# Yum 😋
+# Yum 
 A Open-Source collection of recipes
 
 <details>
