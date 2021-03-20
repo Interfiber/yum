@@ -11,6 +11,7 @@ A Open-Source collection of recipes
 <p><a href="/recipes/pumpkin_muffins.html">Pumpkin Muffins</a></p>
 <p><a href="/recipes/drop_cornbread_biscuts.html">Drop Cornbread Biscuits</a></p>
 <p><a href="/recipes/eggnog.html">Small Batch Eggnog</a></p>
+<p><a href="/recipes/crisp_rosemary_flatbread.html">Crisp Rosemary Flatbread</a></p>
 </details>
 
 ## Adding a recipe

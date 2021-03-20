@@ -1,3 +1,7 @@
+// This program will compile all of the markdown in the site folder
+// then inject some css into it to make it look better.
+// The html generated is not clean, so it will not have a DOCTYPE
+// at the top
 const marked = require("marked");
 const fs = require("fs");
 const copydir = require("copy-dir");
@@ -28,4 +32,4 @@ while ((dirent = dir.readSync()) !== null) {
     fs.writeFileSync(`public/recipes/${dirent.name.toString().replace(".md", ".html")}`, out);
     console.log(`Compiled file ${dirent.name}!`);
 }
-dir.closeSync()
+dir.closeSync();
